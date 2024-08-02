@@ -22,7 +22,7 @@ Gorilla Hoover is a Windows-only application (at the moment) that allows users t
 
 ## Installation
 
-1. Download the Gorilla Hoover installer from the [official website](#) (soon).
+1. Download the Gorilla Hoover installer from the release page or from the [official website](#) (soon).
 2. Run the file and you will be ready to go from there.
 
 ## Usage
