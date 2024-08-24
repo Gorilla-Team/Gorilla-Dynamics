@@ -9,17 +9,17 @@ Gorilla Dynamics is a Windows-only application (at the moment) that allows users
 3. [Usage](#usage)
    - [Agreement Page](#agreement-page)
    - [Menu Page](#menu-page)
-      - [Gorilla Hoover](#gorilla-hoover)
-      - [Converter](#converter)
-      - [Features](#features)
-         - [Sort By Size](#sort-by-size)
-         - [Encrypt File](#encrypt-file)
-         - [Decrypt File](#decrypt-file)
-         - [Delete File](#delete-file)
-         - [Check Extension](#check-extension)
-         - [Trojan Gorilla](#trojan-gorilla)
-      - [Help](#help-page)
-      - [Check for Updates](#check-for-updates)
+      - Gorilla Hoover
+      - Converter
+      - Features
+         - Sort By Size
+         - Encrypt File
+         - Decrypt File
+         - Delete File
+         - Check Extension
+         - Trojan Gorilla
+      - Help
+      - Check for Updates
 4. [License](#license)
 5. [Contributing](#contributing)
 6. [Contact](#contact)
